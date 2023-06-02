@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:zoom="0.59213249"
+     inkscape:cx="170.56993"
+     inkscape:cy="151.99301"
+     inkscape:window-width="960"
+     inkscape:window-height="482"
+     inkscape:window-x="249"
+     inkscape:window-y="99"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-nodes="false" />
+  <defs
+     id="defs2">
+    <rect
+       x="80.546661"
+       y="166.16751"
+       width="0"
+       height="126.94406"
+       id="rect100372" />
+    <rect
+       x="80.546661"
+       y="166.16751"
+       width="0"
+       height="126.94406"
+       id="rect57298" />
+    <rect
+       x="80.546661"
+       y="39.223449"
+       width="22.17344"
+       height="68.168895"
+       id="rect28964" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text28962"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect28964)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text57296"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect57298)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 11.013179,5.2118238 c 0.162847,2.3146933 0.39226,4.6526124 0.158971,6.9721532 -0.203804,2.026371 -0.392203,4.042981 -0.514297,6.073809 -0.05446,0.905861 -0.366907,1.779666 -0.448318,2.69052 -0.143984,1.610952 -0.2602908,3.236042 -0.2602908,4.854177 0,0.498457 0.089354,1.09581 0,1.587255 -0.1774931,0.976212 -0.3427019,1.968701 -0.3427019,2.980806 0,0.470424 0,0.940848 0,1.411274 0,0.06136 -0.068322,-0.102915 -0.1117078,-0.146301"
+       id="path172092"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 9.6065421,31.781818 c 1.5783569,-0.215646 3.0781139,0.228574 4.6547099,0.175263 2.581644,-0.0873 5.061017,-0.825286 7.649538,-0.908436 2.030139,-0.06521 4.072517,0.06635 6.095488,0.05893 0.606181,-0.0021 1.203711,-0.142809 1.805876,-0.181605 0.478499,-0.03083 0.889252,0.08545 1.358093,0.117597 0.715754,0.04908 1.443747,-0.03025 2.160315,0 1.382041,0.05834 2.956431,0.481407 4.325789,0.528542 0.878946,0.03026 1.931432,-0.103362 2.777416,-0.373914 0.706692,-0.226007 1.152181,-0.408882 1.896899,-0.222703 0.245708,0.06143 0.653798,0.47511 0.809725,0.579565 0.482907,0.323506 0.494806,0.286353 0.684469,0.665678"
+       id="path172096"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 9.9492442,25.802483 c 0.1031738,-0.203739 0.1837328,-0.420608 0.3095218,-0.611216 0.08821,-0.133673 0.278362,-0.16539 0.390977,-0.27927 1.14089,-1.153704 2.540083,-1.984374 3.770071,-3.044866 0.769915,-0.663819 1.628307,-1.173897 2.476431,-1.740918 0.74663,-0.499167 1.441282,-1.133887 2.224918,-1.573523 0.907123,-0.508915 1.904344,-0.988265 2.858756,-1.398925 1.22165,-0.525647 2.57268,-0.756055 3.816707,-1.228047 1.608574,-0.610302 3.242905,-1.210215 4.948655,-1.521408 1.236459,-0.225577 2.473503,-0.09019 3.713126,-0.207584 1.267134,-0.120003 2.335757,-0.199198 3.619677,-0.199198 1.445771,0 2.891541,0 4.337309,0 0.362379,0 1.046554,-0.119157 1.404028,0"
+       id="path172098"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.458407,14.196726 c -0.39088,0.953338 -0.506436,2.970279 0,0"
+       id="path172100"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.206293,16.807879 c 0.110178,0.419974 0.211873,0.836138 0.211873,1.267424"
+       id="path172114"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.506339,19.392275 c -0.05901,0.332493 -0.09342,0.476194 0,0.756462"
+       id="path172116"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.250026,21.656523 c 0.07314,0.442989 -0.05067,0.862713 -0.05067,1.297291"
+       id="path172118"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.144495,24.570475 c 0.06321,0.31135 0.05067,0.6249 0.05067,0.939143"
+       id="path172120"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.072933,26.9597 c 0.02196,0.156374 0.02569,0.935955 0.02782,0.988375"
+       id="path172122"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 33.983205,29.051562 c 0.148624,0.03144 0.01106,1.469586 0.01106,0.830209"
+       id="path172124"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 33.913048,13.787738 c 1.863682,1.638736 -0.09677,-1.902151 0,0 0.01193,0.234337 0.01241,0.479423 0.101229,0.696603 0.221573,0.541796 1.577645,-0.554604 0.904113,-1.059752 -0.259556,-0.194667 -0.955865,0.249986 -1.005342,0.363149 -0.397558,0.909279 0.873686,0.904147 0.945507,0.329567 0.0146,-0.116841 -0.0062,-0.38739 -0.111707,-0.335124 -0.130548,0.06467 -0.202237,0.212505 -0.279448,0.336048 -0.204795,0.327691 0.329147,0.197484 0.0011,0.02791"
+       id="path172126"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.221326,15.070834 c 0.626328,-0.098 1.273184,0.05573 1.891192,0.05721 0.174134,4.23e-4 0.33305,-0.0905 0.502685,-0.111708 1.196693,-0.149586 2.272078,-0.465535 3.462943,-0.614393 0.831249,-0.103906 1.691549,0.0274 2.524077,-0.05585 0.622982,-0.0623 1.227825,-0.065 1.843177,-0.167561 0.941782,-0.156964 1.960499,0.09441 2.911644,0 0.797724,-0.07918 1.599803,-0.198974 2.402761,-0.27927 0.624509,-0.06245 1.307565,-0.0015 1.921473,-0.113085 0.917628,-0.166749 1.888736,-0.260502 2.824734,-0.426442 0.499729,-0.08859 0.601874,-0.19672 1.123902,-0.264321 1.096762,-0.142027 2.218714,-0.08657 3.314655,-0.234375 0.91135,-0.122906 1.919121,-0.634734 2.810976,-0.857698 0.210378,-0.05259 0.455345,-0.124581 0.670248,-0.167561 0.433541,-0.08671 0.52239,0.24149 1.117078,-0.05585"
+       id="path172132"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="21.167624"
+       y="13.346153"
+       id="text181646"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan181644"
+         style="font-size:2.11667px;stroke-width:0.264583"
+         x="21.167624"
+         y="13.346153">slope=c_j</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.613738,8.1219187 c -0.68636,0.099063 -1.049356,0.3664619 -1.054639,1.0947678 -0.0095,1.3038235 2.64846,2.9280145 3.764563,1.9337375 0.79384,-0.707193 0.744069,-2.5260033 -0.168757,-3.1345524 -0.41103,-0.2740208 -2.036085,-0.086188 -2.541167,0.1060471 z"
+       id="path186452"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 36.39222,10.072918 c 0.132654,0.641067 0.723588,1.569638 1.084617,1.810353"
+       id="path186454"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 36.089714,16.259952 c 0.216606,0.277138 0.438563,0.550177 0.649819,0.831414 0.67673,0.900899 1.272191,1.902311 1.846112,2.872716 0.06568,0.111057 0.165407,0.475885 0.171516,0.347004 0.0042,-0.08905 -0.05135,-0.173328 -0.05135,-0.26248"
+       id="path186456"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.291805,17.603766 c 0.167309,-0.486283 0.274317,-1.023497 0.50025,-1.491593 0.01373,-0.02845 0.218969,0.16462 0.491061,0.273457 1.225196,0.490078 0.830276,0.142298 1.844712,0.901337"
+       id="path186458"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 40.008849,20.743378 c -0.09105,0.239943 -0.205475,0.472277 -0.273153,0.719831 -0.0467,0.170805 -0.04773,0.350945 -0.06769,0.52689 -0.201488,1.776181 -0.198464,0.304773 0.614918,-0.121533 0.369639,-0.193734 0.98062,-0.241673 0.785072,0.281731 -0.360942,0.966092 -1.370246,0.623379 -2.180887,0.623379 -0.128778,0 0.254067,0.05178 0.382842,0.05178"
+       id="path186460"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.523018,22.076317 c 0.497925,0.02409 -0.646756,1.704579 -0.282453,1.377261 0.06644,-0.0597 0.09926,-0.149964 0.162414,-0.213121"
+       id="path186462"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.533179,21.982087 c -0.176194,0.222878 -0.524409,0.673906 -0.220191,0.978126 0.06583,0.06582 0.190957,0.02944 0.27927,0 0.534897,-0.1783 0.451085,-0.850677 0.451085,-1.296016 0,-0.09038 -0.01122,0.18145 0,0.271128 0.03661,0.292866 0.122939,0.577466 0.174387,0.868092 0.07278,0.41111 0.115496,0.587167 0.341575,0.926283 0.1583,0.237451 0.298114,-0.196381 0.555122,-0.324886"
+       id="path186464"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.792526,22.086551 c -0.463857,0.101558 -0.522817,-0.03092 -0.646634,0.340533 -0.08668,0.260042 1.055926,0.245603 1.141492,0.673435 0.04594,0.229716 -1.19081,0.259249 -1.330579,0.51327 -0.07404,0.134567 -0.04218,0.304397 -0.05585,0.457379 -0.0159,0.177984 -0.032,0.135566 0.05585,0.223416"
+       id="path186466"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 40.01808,25.489818 c 0.187706,0.926967 -0.253216,1.720842 -0.253216,2.641848 0,0.275178 0.05336,-0.549018 0.111707,-0.81794 0.06526,-0.300789 0.683143,-1.644554 0.97514,-1.644554 0.852675,0 0.575281,0.07356 0.280085,0.444997 -0.214058,0.26935 -0.368667,0.724428 -0.749368,0.819604 -0.254678,0.06367 -0.50953,-0.359629 -0.11171,-0.558539"
+       id="path186468"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.865471,25.969656 c -0.167561,0.167561 -0.360503,0.313111 -0.502685,0.502684 -0.37933,0.505775 0.686954,0.916107 1.005369,0.27927 0.147646,-0.295286 -0.11567,-1.317572 -0.225057,-1.185276 -0.104002,0.125784 -0.185084,0.268881 -0.277627,0.403322 z"
+       id="path186470"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.500186,26.298701 c -0.05373,0.128572 0.12641,1.843567 -0.05113,0.780514"
+       id="path186472"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.554983,25.587927 0.346107,0.06811"
+       id="path186474"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 46.409385,26.656614 c 0,0.234805 0.01259,0.469945 0,0.704411 -0.01767,0.32875 -0.144455,0.456478 -0.279268,0.726102 -0.09308,0.186163 0.200493,-0.372521 0.238101,-0.577231 0.192892,-1.049944 -0.319238,-1.06253 1.106477,-1.073626 0.449792,-0.0035 -0.0114,2.48281 0.727641,1.004744"
+       id="path186476"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.25819,26.379789 c 0.574307,0.196059 1.117941,0.02648 1.64049,-0.182538 0.126405,-0.05056 0.316246,0.04128 0.445421,0 0.110572,-0.03534 -0.173029,-0.156034 -0.269616,-0.220426"
+       id="path186478"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 49.337735,25.190408 c 0.269255,0.81949 0.164023,1.696643 0.164023,2.547259 0,0.06128 0.03534,0.542042 0.04586,0.508265 0.01109,-0.03557 0.03068,-0.11907 0.07242,-0.202533"
+       id="path186480"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="42.622326"
+       y="34.234234"
+       id="text196856"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan196854"
+         style="stroke-width:0.264583"
+         x="42.622326"
+         y="34.234234">reverse voltage V_R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-39.940914"
+       y="7.9103251"
+       id="text205506"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/kevin/github/togohogo1-archive/sedra-smith-microelectronic-circuits-notes/path172092.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan205504"
+         style="stroke-width:0.264583"
+         x="-39.940914"
+         y="7.9103251">Charge stored in depletion layer, Q_j</tspan></text>
+  </g>
+</svg>
