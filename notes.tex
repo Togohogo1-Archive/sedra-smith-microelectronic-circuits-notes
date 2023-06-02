@@ -4,11 +4,14 @@
 \input{macros}
 \input{letterfonts}
 
-\title{\Huge{Some Class}\\Random Examples}
-\author{\huge{Your Name}}
-\date{}
+\title{\Huge{SEDRA/SMITH}\\\huge{Microelectronic Circuits}\\\normalsize{SEVENTH EDITION}}
+\author{\huge{Notes by Kevin Wang}}
+\date{\today}
 
 \begin{document}
+
+% Seems like the next time \chapter{} gets called, it updates
+\setcounter{chapter}{2}
 
 \maketitle
 \newpage% or \cleardoublepage
@@ -17,8 +20,121 @@
 \tableofcontents
 \pagebreak
 
-\chapter{}
-\section{Random Examples}
+\chapter{Semiconductors}
+
+\section*{Introduction}
+\section{Intrinsic Semiconductors}
+\section{Doped Semiconductors}
+\section{Current Flow in Semiconductors}
+\section{The \textit{pn} Junction with an Applied Voltage}
+
+\subsection{Qualitative Description of Junction Operation}
+
+\subsection{The Current-Voltage Relationship of the Junction}
+
+\subsection{Reverse Breakdown}
+
+\section{Capacitive Effects in the \textit{pn} Junction}
+
+2 ways charge can be stored in \textit{pn} junction.
+\begin{enumerate}
+	\item charge in depletion region (more visible when reverse bias)
+	\item minority charge in \textit{n} and \textit{p} material (more visible when forward bias)
+	\begin{itemize}
+		\item concentration profile by injecting to n-dope
+		\item \makebox[0pt][l]{\qquad  \qquad " \qquad  \qquad " \qquad}\phantom{concentration profile by injecting} to p-dope
+	\end{itemize}
+\end{enumerate}
+
+\subsection{Depletion or Junction Capacitance}
+
+\textbf{Assumption:} \textit{pn} junction reversed bias with $V_R$, charge on either side of junction:
+\begin{equation}
+	Q_j = A \sqrt{2\epsilon_s q \frac{N_A N_D}{N_A + N_D} \left(V_0 + V_R\right)} = \alpha \sqrt{\left(V_0 + V_R\right)}
+	\label{eq:3.6-alpha-v0-vr}
+\end{equation}
+We denote $\alpha$ as $A \sqrt{2\epsilon_s q \frac{N_A N_D}{N_A + N_D}}$ and observe that $Q_j \not\propto V_R$ (also not linearly related)
+\begin{itemize}
+	\item Hard to define capacitance that accounts for changing $Q_j$ when $V_R$ changes
+\end{itemize}
+
+\begin{figure}[!hbpt]
+	\centering
+	\includegraphics{path172092.png}
+	\caption{The charge stored on either side of the depletion layer as a function of the reverse voltage $V_R$}
+	\label{fig:charge-volt-cap-graph}
+\end{figure}
+
+\textbf{Assumption:} junction operates as a point $Q$ and define
+
+\begin{equation}
+	C_j = \frac{dQ_J}{dV_r} \bigg| _{V_R=V_Q}
+	\label{eq:3.6-cap-relating-charge-to-volt}
+\end{equation}
+\begin{note}
+	The definition of capacitance
+	\begin{equation*}
+		q = CV
+		\implies C = q/V = \frac{\Delta q}{\Delta V}
+	\end{equation*}
+	\begin{itemize}
+		\item Equation \ref{eq:3.6-cap-relating-charge-to-volt} useful in electronic cct design
+		\item This equation used in this book frequently
+		\item Called the \textbf{``incremental-capacitance approach''}
+	\end{itemize}
+\end{note}
+
+Combining equations \ref{eq:3.6-cap-relating-charge-to-volt} with \ref{eq:3.6-alpha-v0-vr} we obtain:
+\begin{equation}
+	C_j = \frac{\alpha}{2\sqrt{V_0 + V_R}}
+	\label{eq:3.6-derivative-Cj}
+\end{equation}
+We observe that $C_j$ at reverse bias ($V_R = 0$) is $C_{j0} = \frac{\alpha}{2\sqrt{V_0}}$, so we can write $C_j$ as
+\begin{equation}
+	C_j = \frac{C_{j0}}{\sqrt{1+\frac{V_R}{V_0}}}
+	\label{eq:3.6-cj-wrt-cj0}
+\end{equation}
+Substituting for $\alpha$, we obtain:
+\begin{equation}
+	C_j = A \sqrt{\left(
+		\frac{\epsilon_s q}{2}
+	\right)\left(
+		\frac{N_A N_D}{N_A + N_D}
+	\right)\left(
+		\frac{1}{V_0}
+	\right)}
+	\label{eq:3.6-cj-wrt-cj0-alpha-sub}
+\end{equation}
+
+Before leaving concept of junction capacitance, we introduce
+\dfn{Terms}{
+	\textbf{Abrupt junction} \textit{pn} junction, doping concentration changes abruptly at junction boundary (this is deliberately done) \\
+
+	\textbf{Graded junction:} \textit{pn} junction, carrier concentration changes gradually from one side to another. Then $C_j$ becomes:
+	\begin{equation*}
+		C_j = \frac{C_{j0}}{\left(1+\frac{V_R}{V_0}\right)^m}
+	\end{equation*}
+	where $m$ is the \textbf{Grading coefficient}
+
+	\begin{note}
+		\begin{itemize}
+			\item $m$ ranges from 1/3 to 1/2
+			\item $m$ depends on manner in which concentration changes from \textit{p} to \textit{n} side
+		\end{itemize}
+	\end{note}
+}
+
+\qs{Exercise 3.14}{
+
+For the \textit{pn} \dots cm$^2$. \\
+
+\sol{Solution}
+}
+
+\subsection{Diffusion Capacitance}
+
+
+
 \dfn{Limit of Sequence in $\bs{\bbR}$}{Let $\{s_n\}$ be a sequence in $\bbR$. We say $$\lim_{n\to\infty}s_n=s$$ where $s\in\bbR$ if $\forall$ real numbers $\eps>0$ $\exists$ natural number $N$ such that for $n>N$ $$s-\eps<s_n<s+\eps\text{ i.e. }|s-s_n|<\eps$$}
 \qs{}{Is the set ${x-}$axis${\setminus\{\text{Origin}\}}$ a closed set}
 \sol We have to take its complement and check whether that set is a open set i.e. if it is a union of open balls
