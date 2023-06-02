@@ -28,7 +28,7 @@
 \usepackage{multicol,array}
 \usepackage{tikz-cd}
 \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
-\usepackage{comment} % enables the use of multi-line comments (\ifx \fi) 
+\usepackage{comment} % enables the use of multi-line comments (\ifx \fi)
 \usepackage{import}
 \usepackage{xifthen}
 \usepackage{pdfpages}
@@ -725,7 +725,7 @@
 %{\hspace{0.5em}\nobreak\itshape\color{myred}\contentspage}
 %\titlecontents{subsection}
 %[8.4em]
-%{\sffamily\contentslabel{3em}}{}{}  
+%{\sffamily\contentslabel{3em}}{}{}
 %{\hspace{0.5em}\nobreak\itshape\color{myred}\contentspage}
 
 
@@ -756,12 +756,20 @@
 {}
 {\hfill\small \thecontentspage}
 []
-\titlecontents*{subsection}[3.7pc]
-{\addvspace{-1pt}\small}
+
+\titlecontents{subsection}[3.7pc]
+{\addvspace{2pt}}
+{\small\qquad\contentslabel[\thecontentslabel]{2pc}}
 {}
-{}
-{\ --- \small\thecontentspage}
-[ \textbullet\ ][]
+{\hfill\small \thecontentspage}
+[]
+
+% \titlecontents*{subsection}[3.7pc]
+% {\addvspace{-1pt}\small}
+% {}
+% {}
+% {\ --- \small\thecontentspage}
+% [ \textbullet\ ][]
 
 \makeatletter
 \renewcommand{\tableofcontents}{%
