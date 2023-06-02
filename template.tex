@@ -4,11 +4,14 @@
 \input{macros}
 \input{letterfonts}
 
-\title{\Huge{Some Class}\\Random Examples}
-\author{\huge{Your Name}}
-\date{}
+\title{\Huge{SEDRA/SMITH}\\\huge{Microelectronic Circuits}\\\normalsize{SEVENTH EDITION}}
+\author{\huge{Notes by Kevin Wang}}
+\date{\today}
 
 \begin{document}
+
+% Seems like the next time \chapter{} gets called, it updates
+\setcounter{chapter}{2}
 
 \maketitle
 \newpage% or \cleardoublepage
@@ -17,8 +20,15 @@
 \tableofcontents
 \pagebreak
 
-\chapter{}
-\section{Random Examples}
+\chapter{Semiconductors}
+
+\section*{Introduction}
+\section{Intrinsic Semiconductors}
+\section{Doped Semiconductors}
+\section{Current Flow in Semiconductors}
+\section{The \textit{pn} Junction with an Applied Voltage}
+\section{Capacitive Effects in the \textit{pn} Junction}
+
 \dfn{Limit of Sequence in $\bs{\bbR}$}{Let $\{s_n\}$ be a sequence in $\bbR$. We say $$\lim_{n\to\infty}s_n=s$$ where $s\in\bbR$ if $\forall$ real numbers $\eps>0$ $\exists$ natural number $N$ such that for $n>N$ $$s-\eps<s_n<s+\eps\text{ i.e. }|s-s_n|<\eps$$}
 \qs{}{Is the set ${x-}$axis${\setminus\{\text{Origin}\}}$ a closed set}
 \sol We have to take its complement and check whether that set is a open set i.e. if it is a union of open balls
