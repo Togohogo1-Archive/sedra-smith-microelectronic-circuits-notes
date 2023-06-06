@@ -46,7 +46,7 @@
 	\end{itemize}
 \end{enumerate}
 
-\subsection{Depletion or Junction Capacitance}
+\subsection{Depletion or Junction Capacitance}\label{sec:3.6.1-depletion-or...}
 
 \textbf{Assumption:} \textit{pn} junction reversed bias with $V_R$, charge on either side of junction:
 \begin{equation}
@@ -132,5 +132,117 @@ For the \textit{pn} \dots cm$^2$. \\
 }
 
 \subsection{Diffusion Capacitance}
+
+\textbf{Consider:} \textit{pn} junction, forward bias: \\
+\textbf{Assume:} in steady state
+\begin{itemize}
+	\item Minority-carrier distributions in \textit{p} and \textit{n} regions as shown in \textlangle Fig. 3.12\textrangle
+		\begin{itemize}
+			\item Some minority charge carrier charges stored in \textit{p} and \textit{n} regions outside depletion region
+		\end{itemize}
+	\item Changes in terminal voltage cause charges as mentioned $\uparrow$$\uparrow$ to change before new steady state
+\end{itemize}
+\textit{This}, completely different charge-storage phenomenon than \ref{sec:3.6.1-depletion-or...}
+\begin{itemize}
+	\item Previous section was charge-storage of non-depletion region
+	\item This section is charge-storage of depletion region
+\end{itemize}
+
+We calculate excess minority-carrier charge \textlangle Fig. 3.12\textrangle by taking shaded area under exponential
+
+\textbf{Consider:} excess hole charges in \textit{n} region $Q_p$
+\begin{align}
+	Q_p &= Aq \times \text{shaded area under the $p_n(x)$ curve}\notag \\
+		&= Aq \left[p_n(x_n) - p_{n0}\right]L_p \label{eq:3.6-area-under-curve-charge}
+\end{align}
+\begin{note}
+	Recall area under exponential curve $Ae^{-x/B}$ is equal to AB
+\end{note}
+
+Doing some substitutions \textlangle add sections\textrangle to Eq. (\ref{eq:3.6-area-under-curve-charge}):
+\begin{equation}
+	Q_p = \frac{L_p^2}{D_p}I_p
+\end{equation}
+We note that the factor $\frac{L_p^2}{D_p}$ relates $Q_p$ to $I_p$ is very useful parameter, and has dimensions of time (s). Thus we denote:
+\begin{equation}
+	\tau_p = \frac{L_p^2}{D_p}
+\end{equation}
+So:
+\begin{equation}
+	Q_p = \tau_p I_p \label{eq:3.6-qptpip}
+\end{equation}
+
+\dfn{Terms}{
+	\textbf{Minority-carrier (hole) lifetime}: Average time it takes for a hole injected into the n region to recombine with a majority electron, denoted $\tau_p$ \\
+
+	This definition has the following implications:
+	\begin{itemize}
+		\item Entire charge, $Q_p$ disappears
+		\item $Q_p$ has to be replenished every $\tau_p$ seconds
+		\item The current responsible for replenishing is $I_p$
+	\end{itemize}
+}
+
+Similarly for electrons charge in \textit{p} region:
+\begin{equation}
+	Q_n = \tau_n I_n \label{eq:3.6-qntnin}
+\end{equation}
+Where $\tau_n$ is electron lifespan in \textit{p} region. Thus, the total excess minority-carrier charge:
+\begin{equation}
+	Q = \tau_p I_p + \tau_n I_n
+	\label{eq:3.6-qtpiptnin}
+\end{equation}
+In terms of $I = I_p + I_n$, the diode current
+\begin{equation}
+	Q = \tau_T I
+\end{equation}
+
+\dfn{Term}{
+	\textbf{Mean transit time}: For the junction, is equal to $\tau_T$ \\
+
+	We recognize that one side of junction more heavily doped than another. If $N_A >> N_D$:
+	\begin{itemize}
+		\item $I_p$~\textgreater{}\textgreater~$I_n$
+		\item $I \approx I_p$
+		\item $Q_p$~\textgreater{}\textgreater~$Q_n$
+		\item $Q \approx Q_p$
+		\item $\bm{\tau_T \approx \tau_p}$
+	\end{itemize}
+}
+
+\dfn{Term}{
+	\textbf{Incremental diffusion capacitance}: Defined $C_d$, for small changes around a bias point:
+	\begin{equation}
+		C_d = \frac{dQ}{dV} = \left(\frac{\tau_T}{V_T}\right) I
+	\end{equation}
+	Where $I$ is the forward-bias current \\
+
+	Note:
+	\begin{itemize}
+		\item $C_d \propto I$
+			\begin{itemize}
+				\item Because of this, $C_d$ negligibly small when reverse bias
+			\end{itemize}
+		\item To keep $C_d$ small, transit time must be small
+			\begin{itemize}
+				\item Important requirement for \textit{pn} junction for high-speed or high-frequency
+			\end{itemize}
+	\end{itemize}
+
+}
+
+\qs{Exercise 3.15}{
+
+Use the definition \dots
+
+\sol{Solution}
+}
+
+\qs{Exercise 3.16}{
+
+For the \textit{pn} \dots
+
+\sol{Solution}
+}
 
 \end{document}
