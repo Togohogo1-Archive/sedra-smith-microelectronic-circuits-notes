@@ -108,21 +108,18 @@ Substituting for $\alpha$, we obtain:
 
 Before leaving concept of junction capacitance, we introduce
 \dfn{Terms}{
-	\textbf{Abrupt junction} \textit{pn} junction, doping concentration changes abruptly at junction boundary (this is deliberately done) \\
-
-	\textbf{Graded junction:} \textit{pn} junction, carrier concentration changes gradually from one side to another. Then $C_j$ becomes:
-	\begin{equation*}
-		C_j = \frac{C_{j0}}{\left(1+\frac{V_R}{V_0}\right)^m}
-	\end{equation*}
-	where $m$ is the \textbf{Grading coefficient}
-
-	\begin{note}
-		\begin{itemize}
-			\item $m$ ranges from 1/3 to 1/2
-			\item $m$ depends on manner in which concentration changes from \textit{p} to \textit{n} side
-		\end{itemize}
-	\end{note}
+	\textbf{Abrupt junction}: \textit{pn} junction, doping concentration changes abruptly at junction boundary (this is deliberately done) \\
+	\textbf{Graded junction}: \textit{pn} junction, carrier concentration changes gradually from one side to another.
 }
+If graded junction, then $C_j$ becomes:
+\begin{equation*}
+	C_j = \frac{C_{j0}}{\left(1+\frac{V_R}{V_0}\right)^m}
+\end{equation*}
+where $m$ is the \textbf{Grading coefficient}
+\begin{itemize}
+	\item $m$ ranges from 1/3 to 1/2
+	\item $m$ depends on manner in which concentration changes from \textit{p} to \textit{n} side
+\end{itemize}
 
 \qs{Exercise 3.14}{
 
@@ -174,14 +171,13 @@ So:
 
 \dfn{Terms}{
 	\textbf{Minority-carrier (hole) lifetime}: Average time it takes for a hole injected into the n region to recombine with a majority electron, denoted $\tau_p$ \\
-
-	This definition has the following implications:
-	\begin{itemize}
-		\item Entire charge, $Q_p$ disappears
-		\item $Q_p$ has to be replenished every $\tau_p$ seconds
-		\item The current responsible for replenishing is $I_p$
-	\end{itemize}
 }
+This definition has the following implications:
+\begin{itemize}
+	\item Entire charge, $Q_p$ disappears
+	\item $Q_p$ has to be replenished every $\tau_p$ seconds
+	\item The current responsible for replenishing is $I_p$
+\end{itemize}
 
 Similarly for electrons charge in \textit{p} region:
 \begin{equation}
@@ -199,16 +195,15 @@ In terms of $I = I_p + I_n$, the diode current
 
 \dfn{Term}{
 	\textbf{Mean transit time}: For the junction, is equal to $\tau_T$ \\
-
-	We recognize that one side of junction more heavily doped than another. If $N_A >> N_D$:
-	\begin{itemize}
-		\item $I_p$~\textgreater{}\textgreater~$I_n$
-		\item $I \approx I_p$
-		\item $Q_p$~\textgreater{}\textgreater~$Q_n$
-		\item $Q \approx Q_p$
-		\item $\bm{\tau_T \approx \tau_p}$
-	\end{itemize}
 }
+We recognize that one side of junction more heavily doped than another. If $N_A >> N_D$:
+\begin{itemize}
+	\item $I_p$~\textgreater{}\textgreater~$I_n$
+	\item $I \approx I_p$
+	\item $Q_p$~\textgreater{}\textgreater~$Q_n$
+	\item $Q \approx Q_p$
+	\item \fbox{$\tau_T \approx \tau_p$}
+\end{itemize}
 
 \dfn{Term}{
 	\textbf{Incremental diffusion capacitance}: Defined $C_d$, for small changes around a bias point:
@@ -216,20 +211,18 @@ In terms of $I = I_p + I_n$, the diode current
 		C_d = \frac{dQ}{dV} = \left(\frac{\tau_T}{V_T}\right) I
 	\end{equation}
 	Where $I$ is the forward-bias current \\
-
-	Note:
-	\begin{itemize}
-		\item $C_d \propto I$
-			\begin{itemize}
-				\item Because of this, $C_d$ negligibly small when reverse bias
-			\end{itemize}
-		\item To keep $C_d$ small, transit time must be small
-			\begin{itemize}
-				\item Important requirement for \textit{pn} junction for high-speed or high-frequency
-			\end{itemize}
-	\end{itemize}
-
 }
+Note:
+\begin{itemize}
+	\item $C_d \propto I$
+		\begin{itemize}
+			\item Because of this, $C_d$ negligibly small when reverse bias
+		\end{itemize}
+	\item To keep $C_d$ small, transit time must be small
+		\begin{itemize}
+			\item Important requirement for \textit{pn} junction for high-speed or high-frequency
+		\end{itemize}
+\end{itemize}
 
 \qs{Exercise 3.15}{
 
